@@ -1,0 +1,20 @@
+{
+    "name": "kjoel/dalle-api",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Kjoel\\DalleApi\\": "src/",
+            "Client\\": "src/Client/",
+            "Service\\": "src/Service/",
+            "Controller\\": "src/Controller/",
+            "Repository\\": "src/Repository/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kelvinvida99",
+            "email": "kelvinvida99@gmail.com"
+        }
+    ],
+    "require": {}
+}
